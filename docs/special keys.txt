@@ -55,3 +55,4 @@ num_lock
 pause
 print_screen
 scroll_lock
+also a-Z and 0-9
