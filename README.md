@@ -14,14 +14,14 @@ In this case i have setup my arduino and keypad like this :
 
 ![connections](./docs/wires.png)
 
-After setting up hardware [write your own profiles]() for each key of the keypad or what ever you use.
+After setting up hardware [write your own profiles](https://github.com/saadati944/Arduino_Deck#writing-profiles) for each key of the keypad or what ever you use.
 
 Now just run the `deck.py` and enjoy ***ت***
 
 ### Main staps :
 
 1. Connect arduino board to the keypad like above image.
-1. Upload `keypad_to_serial.ino` in to your arduino board. [How ???]()
+1. Upload `keypad_to_serial.ino` in to your arduino board. [How ???](https://www.arduino.cc/en/main/howto)
 1. Write your personal profile files in the profiles folder.
 1. Execute `deck.py` and enjoy.
 
